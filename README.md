@@ -8,11 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=pallavihujare123-cell&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavihujare123-cell&theme=react-dark" width="100%" />
-</p>
----
-
 ---
 
 ### 📊 GitHub Stats
