@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pallavi Hujare</h1>
 
-<!--
-**pallavihujare123-cell/pallavihujare123-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🐍 Python Developer &nbsp;|&nbsp; 🚀 Learning Full-Stack Development &nbsp;|&nbsp; 💻 Building Real-World Projects
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pallavihujare123-cell&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/pallavihujare123-cell">
+    <img src="https://github-profile-trophy.vercel.app/?username=pallavihujare123-cell&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pallavihujare123-cell&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavihujare123-cell&theme=radical" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- **[Expense Tracker (Python)](your-repo-link)** — Console-based expense tracker using OOP & file handling
+- **[SkillMatch Guidance System](your-repo-link)** — Career guidance tool for B.Sc CS students
+- **[Portfolio Website](your-repo-link)** — Personal portfolio built with HTML, CSS, Bootstrap
+
+---
+
+### 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pallavi-hujare)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavihujare123@gmail.com)
