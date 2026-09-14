@@ -31,7 +31,7 @@
 
 ### 📌 Featured Projects
 - **[Expense Tracker (Python)](https://github.com/pallavihujare123-cell/Expense-Tracker-Python.git)** — Console-based expense tracker using OOP & file handling
-- **[SkillMatch Guidance System](your-repo-link)** — Career guidance tool for B.Sc CS students
+- **[SkillMatch Guidance System](https://github.com/pallavihujare123-cell/SkillMatch-Guidence-System.git)** — Career guidance tool for B.Sc CS students
 - **[Portfolio Website](your-repo-link)** — Personal portfolio built with HTML, CSS, Bootstrap
 
 ---
