@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pallavi Hujare</h1>
+<h1 align="center">Hello 👋, I'm Pallavi Hujare</h1>
 
 <p align="center">
   🐍 Python Full-Stack Developer &nbsp;|&nbsp;
