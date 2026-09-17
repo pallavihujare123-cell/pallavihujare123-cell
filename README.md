@@ -98,19 +98,18 @@
 A syllabus-based skill assessment and career guidance system designed for B.Sc. Computer Science students.
 Tech Stack: PHP • MySQL • HTML • CSS • Bootstrap • JavaScript
 
-🔗 View Project
 
 💰 Expense Tracker
 A console-based expense management application built using Python OOP and file handling.
 Concepts: Python • OOP • Classes • File Handling • CRUD
 
-🔗 View Project
+
 
 🌐 Portfolio Website
 Personal developer portfolio showcasing my skills, projects, education and development journey.
 Tech Stack: HTML5 • CSS3 • Bootstrap
 
-🔗 View Portfolio Repository
+
 
 
 ## 🎓 Education
